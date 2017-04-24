@@ -1,0 +1,8 @@
+/home/yuvaraj/Workspace/cs/Employees/bin/Debug/netcoreapp1.1/Employees.deps.json
+/home/yuvaraj/Workspace/cs/Employees/bin/Debug/netcoreapp1.1/Employees.runtimeconfig.json
+/home/yuvaraj/Workspace/cs/Employees/bin/Debug/netcoreapp1.1/Employees.runtimeconfig.dev.json
+/home/yuvaraj/Workspace/cs/Employees/bin/Debug/netcoreapp1.1/Employees.dll
+/home/yuvaraj/Workspace/cs/Employees/bin/Debug/netcoreapp1.1/Employees.pdb
+/home/yuvaraj/Workspace/cs/Employees/obj/Debug/netcoreapp1.1/Employees.AssemblyInfo.cs
+/home/yuvaraj/Workspace/cs/Employees/obj/Debug/netcoreapp1.1/Employees.dll
+/home/yuvaraj/Workspace/cs/Employees/obj/Debug/netcoreapp1.1/Employees.pdb
